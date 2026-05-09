@@ -1,5 +1,5 @@
 ---
-title: "GitHubUpskillingForFree"
+title: "GitHubUpskillingforFree"
 date: 2026-05-09
 ---
 # GitHub Upskilling for Free
